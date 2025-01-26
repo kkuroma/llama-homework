@@ -1,0 +1,15 @@
+Characters:
+    - (name) (description) (personality)
+    (only list main characters)
+Plot Overview:
+    Summarize, in short, the story up to the current point in the story so that subsequent reader may pick up from here.
+    Must be in one concise paragraph, not bullet points. Max 5 sentences.
+Key events:
+    - list key events up to this point as bullet points (i.e. A meeting B, C dying)
+    make sure to mention the person (who), action (what), and place (where) if said information can be found
+    (at most 20 events, concatenate existing ones once more story is added)
+Observations:
+    - list interesting traits of each characters, as well as events that leads to such an observation. 
+    (at most 20 events, concatenate existing ones once more story is added)
+Conclusion:
+    - if the story were to end here, what event would you consider the ending to be (i.e. the main villain dies? the main protagonist wins?)?
